@@ -1,0 +1,1 @@
+GitHub-compatible forge in one Python file: git smart HTTP, REST v3, GraphQL v4, MCP — fast packs, cached reads
